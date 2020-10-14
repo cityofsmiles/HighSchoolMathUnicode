@@ -10,7 +10,7 @@ To use the symbols, just copy and paste.
 | Superscripts or Exponents | º ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾ ª ⁿ |
 | Letter-like Symbols | ℕ ℙ ℚ ℜ ℝ ℤ |
 | Fractions | ¼ ½ ¾ ↉ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞ ⅟ |
-| Operators | ∑ ∓ ± ∕ √ ∛ ∜ |
+| Operators | ∑ ⋅ • ∓ ± ∕ √ ∛ ∜ |
 | Comparison | ∼ ≅ ≇ ≤ ≥ |
 | Geometry | ∠ ∴ ° |
 | Sets | ∈ ∉ ∊ ∋ ∌ ∍ ⊂ ⊃ ⊄ ⊅ ⊆ ⊇ |
